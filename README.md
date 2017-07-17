@@ -6,15 +6,10 @@ The Python files provided here will build an InceptionV3-based CNN to classify v
 ## Requirements
 
 keras == 2.0.2
-
 numpy >= 1.12.1
-
 pandas >= 0.19.2
-
 tqdm >= 4.11.2
-
 matplotlib >= 2.0.0
-
 youtube-dl >= 2017.05.29
 
 
