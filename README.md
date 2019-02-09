@@ -1,6 +1,6 @@
 # SignWrite: Transcribing Sign Language with the Power of Deep Learning
 
-The Python files provided here will build an InceptionV3-based CNN to classify videos of a person signing in American Sign Language (ASL). The initial version was trained to classify signs of the 26 letters of the alphabet, but can be built to account for the complete dictionary of ASL.
+The Python 2.7 files provided here will build an InceptionV3-based CNN to classify videos of a person signing in American Sign Language (ASL). The initial version was trained to classify signs of the 26 letters of the alphabet, but can be built to account for the complete dictionary of ASL.
 
 
 ## Requirements
